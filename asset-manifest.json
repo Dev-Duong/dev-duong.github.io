@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.de8428ff.css",
-    "main.js": "/static/js/main.f63b5c6c.js",
+    "main.js": "/static/js/main.9580535d.js",
     "static/media/devicon.svg?qd25fp": "/static/media/devicon.10e33a3796c872bc312e.svg",
     "static/media/CarbonDrone.pdf": "/static/media/CarbonDrone.b7281f8091186ae7c9e8.pdf",
     "static/media/RealWorldJournal.pdf": "/static/media/RealWorldJournal.7b482eee5f66fc4029f4.pdf",
@@ -19,10 +19,10 @@
     "static/media/mail.svg": "/static/media/mail.08b0fb9dd4d46222a6a230f80fe37d24.svg",
     "index.html": "/index.html",
     "main.de8428ff.css.map": "/static/css/main.de8428ff.css.map",
-    "main.f63b5c6c.js.map": "/static/js/main.f63b5c6c.js.map"
+    "main.9580535d.js.map": "/static/js/main.9580535d.js.map"
   },
   "entrypoints": [
     "static/css/main.de8428ff.css",
-    "static/js/main.f63b5c6c.js"
+    "static/js/main.9580535d.js"
   ]
 }
