@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de8428ff.css",
+    "main.js": "/static/js/main.f63b5c6c.js",
+    "static/media/devicon.svg?qd25fp": "/static/media/devicon.10e33a3796c872bc312e.svg",
+    "static/media/CarbonDrone.pdf": "/static/media/CarbonDrone.b7281f8091186ae7c9e8.pdf",
+    "static/media/RealWorldJournal.pdf": "/static/media/RealWorldJournal.7b482eee5f66fc4029f4.pdf",
+    "static/media/noise.png": "/static/media/noise.480b2e79999a6b03880a.png",
+    "static/media/devicon.eot?qd25fp": "/static/media/devicon.bb0c9256aeb8aecf3ba6.eot",
+    "static/media/devicon.woff?qd25fp": "/static/media/devicon.e4d86e063cb00ba23862.woff",
+    "static/media/devicon.ttf?qd25fp": "/static/media/devicon.685a2d4fcee813854715.ttf",
+    "static/media/CV.pdf": "/static/media/CV.e1eaf3c429d656cfdbe9.pdf",
+    "static/media/MushroomFont.pdf": "/static/media/MushroomFont.1dd0fc60d1fa8b6a42bc.pdf",
+    "static/media/MushroomLog.otf": "/static/media/MushroomLog.5030970ddd48f78bb3f6.otf",
+    "static/media/CarbonDroneStatement.pdf": "/static/media/CarbonDroneStatement.1f56811379629740fdff.pdf",
+    "static/media/profile.png": "/static/media/profile.4b230bcc10e55540bbd9.png",
+    "static/media/github.svg": "/static/media/github.ea6e4b2f197f2248a12b4628a831c303.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.6c04deac68b891f2fc5e5522c6613ada.svg",
+    "static/media/mail.svg": "/static/media/mail.08b0fb9dd4d46222a6a230f80fe37d24.svg",
+    "index.html": "/index.html",
+    "main.de8428ff.css.map": "/static/css/main.de8428ff.css.map",
+    "main.f63b5c6c.js.map": "/static/js/main.f63b5c6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de8428ff.css",
+    "static/js/main.f63b5c6c.js"
+  ]
+}
